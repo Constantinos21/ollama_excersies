@@ -30,8 +30,7 @@ Additionally, this repository contains a Streamlit app (ollstr.py) that provides
 * The user enters a prompt into the chat box.
 * The prompt is sent to the Llama2 model using the Ollama API.
 * The model's response is streamed back to the user word by word, simulating a live conversation.
-Running the Streamlit App  
+# Running the Streamlit App    
 To start the Streamlit app, run the following command in your terminal:
 
-bash
 streamlit run ollstr.py
